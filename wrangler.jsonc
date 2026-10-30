@@ -12,7 +12,7 @@
     {
       "binding": "DB",
       "database_name": "sunny-db",
-      "database_id": "ISI_DENGAN_DATABASE_ID_D1_KAMU"
+      "database_id": "c0d3db31-4b05-4a9f-aa4b-9100645d2056"
     }
   ],
   "triggers": { "crons": ["0 1 * * *"] },
